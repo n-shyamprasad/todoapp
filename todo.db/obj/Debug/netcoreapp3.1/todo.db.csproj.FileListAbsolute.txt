@@ -1,0 +1,9 @@
+/home/jaishnav/todoapp/todo.db/bin/Debug/netcoreapp3.1/todo.db.deps.json
+/home/jaishnav/todoapp/todo.db/bin/Debug/netcoreapp3.1/todo.db.dll
+/home/jaishnav/todoapp/todo.db/bin/Debug/netcoreapp3.1/todo.db.pdb
+/home/jaishnav/todoapp/todo.db/obj/Debug/netcoreapp3.1/todo.db.csprojAssemblyReference.cache
+/home/jaishnav/todoapp/todo.db/obj/Debug/netcoreapp3.1/todo.db.AssemblyInfoInputs.cache
+/home/jaishnav/todoapp/todo.db/obj/Debug/netcoreapp3.1/todo.db.AssemblyInfo.cs
+/home/jaishnav/todoapp/todo.db/obj/Debug/netcoreapp3.1/todo.db.csproj.CoreCompileInputs.cache
+/home/jaishnav/todoapp/todo.db/obj/Debug/netcoreapp3.1/todo.db.dll
+/home/jaishnav/todoapp/todo.db/obj/Debug/netcoreapp3.1/todo.db.pdb
